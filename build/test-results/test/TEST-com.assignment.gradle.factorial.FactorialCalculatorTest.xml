@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.assignment.gradle.factorial.FactorialCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-10T11:27:25" hostname="LAPTOP-AT9T6872" time="0.057">
+  <properties/>
+  <testcase name="shouldMatchFlagForNegativeNumForFactorialOfMinusFive()" classname="com.assignment.gradle.factorial.FactorialCalculatorTest" time="0.041"/>
+  <testcase name="shouldReturnFiveThousandAndFortyForFactorialOfSeven()" classname="com.assignment.gradle.factorial.FactorialCalculatorTest" time="0.003"/>
+  <testcase name="shouldReturnOneForFactorialOfZero()" classname="com.assignment.gradle.factorial.FactorialCalculatorTest" time="0.003"/>
+  <testcase name="shouldMatchFlagForNegativeNumForFactorialOfMinusTwo()" classname="com.assignment.gradle.factorial.FactorialCalculatorTest" time="0.003"/>
+  <testcase name="shouldReturnSixForFactorialOfThree()" classname="com.assignment.gradle.factorial.FactorialCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[Factorial can't be calculated for the given negative number
+Factorial can't be calculated for the given negative number
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
